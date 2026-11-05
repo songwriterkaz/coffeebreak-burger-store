@@ -1,0 +1,17 @@
+A pink Coffeebreak burger store where you order burgers, chips, shakes and desserts online.
+
+Features
+- 16 menu items in Burgers, Sides, Drinks, Desserts and Meal deals
+- Extras and choices: cheese, bacon, gluten-free bun, salts, shake flavours
+- Cart saved in your browser, plus order history and a copy or email order summary
+- Pickup, or local delivery for A$6.00
+- Prices in Australian dollars and include GST
+- Checkout: Pay by PayID (Teachers Mutual Bank): darkokaz@gmx.com
+
+Free to use in your browser.
+
+Karen O'Brien is a Coffeebreak songwriter and creator from Newcastle NSW. More apps, games and stores: https://coffeebreaks.itch.io
+
+Karen O'Brien (Coffeebreak) keeps all rights to her products, designs, apps, name and logo. Buyers may resell physical items they bought but may not copy them or make their own versions. Third-party trademarks and brand names belong to their owners and are used only to describe products.
+
+Tesla: https://www.tesla.com | Starlink: https://www.starlink.com
